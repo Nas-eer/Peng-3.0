@@ -1,0 +1,44 @@
+nav{
+    text-align: center;
+    background-color: #000425;
+    padding: 50px;
+}
+#section-1{
+    text-align: center;
+}
+#section-2{
+    text-align: center;
+    font-family: inter;
+}
+#section-3 p{
+    line-height: 36px;
+    padding-left: 55px;
+    font-family: inter;
+    font-size: 25px;
+    size: 10px;
+}
+#footer{
+    background-color: #000425;
+    padding: 50px;
+    margin: 90px;
+}
+#footer .upper-footer{
+    display: flex;
+    justify-content: center;
+}
+#footer .upper-footer img{
+    padding-right: 15px;
+}
+#footer .lower-footer{
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+    font-family: inter;
+}
+#footer .lower-footer p{
+    padding-right: 10px;
+    font-family: inter;
+}
+#footer .lower-footer img{
+    padding-right: 10px;
+}
